@@ -1,0 +1,92 @@
+[
+    {
+        "id": "intern-default-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 100,
+            "width": 300,
+            "xPosition": 1280,
+            "yPosition": 787
+        }
+    },
+    {
+        "id": "intern-default-text-body-0",
+        "rect": {
+            "angle": 0,
+            "height": 559,
+            "width": 1456,
+            "xPosition": 79,
+            "yPosition": 213
+        }
+    },
+    {
+        "id": "intern-default-text-default-0",
+        "rect": {
+            "angle": 0,
+            "height": 94,
+            "width": 1527,
+            "xPosition": 37,
+            "yPosition": 50
+        }
+    },
+    {
+        "id": "intern-default-text-default-1",
+        "rect": {
+            "angle": 0,
+            "height": 122,
+            "width": 1408,
+            "xPosition": 126,
+            "yPosition": 282
+        }
+    },
+    {
+        "id": "intern-default-text-default-2",
+        "rect": {
+            "angle": 0,
+            "height": 67,
+            "width": 63,
+            "xPosition": 17,
+            "yPosition": 829
+        }
+    },
+    {
+        "id": "intern-titlepage-image-image-1",
+        "rect": {
+            "angle": 0,
+            "height": 100,
+            "width": 300,
+            "xPosition": 1248,
+            "yPosition": 774
+        }
+    },
+    {
+        "id": "intern-titlepage-text-default-0",
+        "rect": {
+            "angle": 0,
+            "height": 121,
+            "width": 1504,
+            "xPosition": 45,
+            "yPosition": 93
+        }
+    },
+    {
+        "id": "intern-titlepage-text-default-1",
+        "rect": {
+            "angle": 0,
+            "height": 110,
+            "width": 1448,
+            "xPosition": 74,
+            "yPosition": 303
+        }
+    },
+    {
+        "id": "intern-titlepage-text-default-2",
+        "rect": {
+            "angle": 0,
+            "height": 100,
+            "width": 1303,
+            "xPosition": 112,
+            "yPosition": 527
+        }
+    }
+]

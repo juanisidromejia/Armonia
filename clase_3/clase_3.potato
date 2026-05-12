@@ -1,0 +1,62 @@
+\usetemplate template
+
+\slide[class:titlepage] Enlacs melodicos
+\title Enlaces melódicos
+\text[class:subtitle] Aplicación en enlaces sin saltos
+\image[background:white] images/presentacion.png
+
+
+\slide descripcion
+\title Consideraciones generales
+\body * No habrá movimiento oblicuo de voces
+* Es recomendable tener al menos un par de voces en mocimiento contrario
+* Asegúrese que las voces que se mueven por directo directo no hagan quintas u octavas paralelas
+
+
+\slide movimientos por segundas
+\title Enlaces de acordes a distancia de segunda
+
+\body * No existe la voz en común cuando se armoniza con tríadas entre estos acordes
+* Las tres voces superiores se mueven hacia abajo en el enlace plano
+
+\slide ciclo de segundas
+\title Ciclo de segundas
+
+\image[background:white] images/ciclo_segundas.png
+
+
+\slide movimientos de las funciones
+\title Movimientos de funciones
+
+\body
+* La tónica se puede ir a cualquier función
+* La subdominante puede ir a cualquier función
+* La dominante debe ir a tónica en las cadencias
+
+
+\slide armonización
+\title Armonización de melodías
+\body 
+* Analice primero la melodía y determine las posibles funciones
+* Revise primero el final de la melodía e identifique si hay cadencia
+* Vea la melodía como un dibujo, eso ayuda a ubicar los registros
+
+\slide Ejemplo armonización
+\title Armonizando melodías
+\image[background:white] images/armonizar.png
+
+
+\slide Enlaces melódicos entre acordes a distancia de cuartas
+\title Enlaces melódicos por cuartas
+\body * El movimiento de las voces será en dirección opuesta a como lo hacían en el armónico
+* Todas las voces se mueven
+* El bajo se mueve preferiblemente en sentido contrario a las voces superiores
+
+
+\slide Ejemplo por cuartas
+\title Ejemplo enlace melódico por cuartas
+\image[background:white] images/melodico.png
+
+
+
+

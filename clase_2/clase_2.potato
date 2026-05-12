@@ -1,0 +1,215 @@
+\usetemplate template
+\slide[class:titlepage] acordes básicos
+\title Construyendo acordes a cuatro voces
+\image[background:#ffc] images/progresion.svg
+
+
+\slide los tres acordes básico
+\title Los tres acordes básicos
+
+\image  images/llanura.jpeg
+\image  images/cascada.jpg
+\image  images/pendiente.jpeg
+
+
+\slide Propiedades de las voces de los acordes
+\title Importancia de las voces en los acordes
+\image[background:#ffc]  images/voces.svg
+
+\slide Propiedades continuacion)
+\title Recuerde siempre esta serie
+\image[background:#ffc]  images/serie.svg
+
+
+\slide Duplicación en el acorde de tónica
+\title Duplicación en el acorde de tónica
+\image[background:#ffc]  images/duplicar_1.svg
+
+\slide Duplicación en el acorde ivertido 1
+\title Duplicando en inversiones
+\text[class:subtitle]Primera inversión
+\image[background:#ffc]  images/duplicar_2.svg
+
+\slide Duplicación en el acorde ivertido 2
+\title Duplicando en inversiones
+\text[class:subtitle]Segunda inversión
+\image[background:#ffc]  images/duplicar_3.svg
+
+
+\slide Duplicación en el acorde de dominante
+\title Duplicación en el acorde de dominante
+\image[background:#ffc]  images/duplicar_1.png
+
+\slide en el acorde ivertido 1
+\title[font-size:40] Duplicando en inversiones del acorde de dominante
+\text[class:subtitle;font-size:30]Primera inversión
+\image[background:#ffc]  images/duplicar_2.png
+
+\slide en el acorde ivertido 2
+\text[class:subtitle]Segunda inversión
+\image[background:#ffc]  images/duplicar_3.png
+
+\slide en acorde con tritono
+\title Acorde con tritono
+\body[font-size:25] Los acordes con tritono no deberían duplicar las voces que lo conforman, tendríamos dos tritonos que resolver
+\image[background:#ffc]  images/tritono.png
+
+
+
+\slide otros grados
+\text[class:subtitle;font-size:30]Sobre los otros grados:
+
+\body
+
+* Un acorde puede sustituir a otro si tiene al menos dos notas en común con el otro acorde
+* Si entre sus voces se tiene una nota que sea I, V o IV grado de la escala entonces se preferirá duplicar esta voz
+
+
+\slide por ahora
+\title Por ahora
+\text[class:subtitle ] Solo trabajaremos con el  I, IV y V grado
+
+
+\slide distancias
+\title distancias entre voces del acorde
+
+\body
+* El bajo se puede separar lo que se requiera
+* Las tres  voces restantes (tenor, contralto y soprano) se mantienen a distancias de octavas máximo
+
+
+\slide ejemplos de distancias
+\image[background:#ffc]  images/separacion.png
+
+\slide[class:titlepage]disposiciones
+\title Disposiciones de los acordes
+\text[class:subtitle]distancias 
+
+\slide caracteristicas de las disposiciones
+\title Características de las disposiciones
+\body
+** Disposición cerrada: **
+* Entre el tenor y el soprano máximo hay una distancia de octava
+* Las tres voces superiores no se separan entre sí más de una cuarta
+
+
+\slide caracteristicas de las abierta
+\body
+** Disposición abierta: **
+
+* Entre el tenor y el soprano se **sobrepasa** la distancia de octava
+* Las tres voces superiores se separan entre sí hasta una sexta (recomendado)
+
+\slide mixta
+\body
+** Disposición mixta: **
+
+* Entre el tenor y el soprano se tiene la distancia de una octava
+* Entre Las tres voces superiores hay un intervalo mayor a la cuarta
+
+
+\slide disposiciones ejemplos
+\title Ejemplo de disposiciones:
+\image[background:#ffc]  images/disposiciones.png
+
+\slide[class:titlepage]Uniendo triadas
+\title Uniendo triadas
+\text[class:subtitle]tipos de enlaces
+\image[background:#ffc]  images/uniones.png
+
+
+\slide enlace armónico
+\title Enlace armónico
+\body[font-size:20] Cuando se mantiene al menos una voz
+* Es el enlace mas "seguro" de usar
+* Le da libertad al bajo (no causará intervalos paralelos)
+\image[background:#ffc]  images/enlace_armonico.png
+
+
+\slide enlace melódico
+\title Enlace melódico
+\body[font-size:20] Ninguna voz se mantiene
+* Es el enlace más contrastante
+* Hay que tener cuidado con no hacer quintas ni octavas paralelas
+* Se recomienda mover el bajo en sentido contrario a las otras voces
+\image[background:#ffc]  images/enlace_melodico.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

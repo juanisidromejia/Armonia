@@ -1,0 +1,142 @@
+[
+    {
+        "id": "intern-Escala-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 420,
+            "width": 1117,
+            "xPosition": 251,
+            "yPosition": 315
+        }
+    },
+    {
+        "id": "intern-Introducción a la Armonía-text-subtitle-0",
+        "rect": {
+            "angle": 0,
+            "height": 110,
+            "width": 1448,
+            "xPosition": 77,
+            "yPosition": 447
+        }
+    },
+    {
+        "id": "intern-Introducción a la Armonía-title-title-0",
+        "rect": {
+            "angle": 0,
+            "height": 121,
+            "width": 1455,
+            "xPosition": 73,
+            "yPosition": 151
+        }
+    },
+    {
+        "id": "intern-acorde de dominante-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 432,
+            "width": 1140,
+            "xPosition": 275,
+            "yPosition": 285
+        }
+    },
+    {
+        "id": "intern-acorde de tonica-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 513,
+            "width": 1366,
+            "xPosition": 156,
+            "yPosition": 252
+        }
+    },
+    {
+        "id": "intern-acorde-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 470,
+            "width": 1321,
+            "xPosition": 140,
+            "yPosition": 300
+        }
+    },
+    {
+        "id": "intern-acorde-title-title-0",
+        "rect": {
+            "angle": 0,
+            "height": 94,
+            "width": 1361,
+            "xPosition": 151,
+            "yPosition": 55
+        }
+    },
+    {
+        "id": "intern-consonancias-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 378,
+            "width": 1012,
+            "xPosition": 311,
+            "yPosition": 335
+        }
+    },
+    {
+        "id": "intern-contrario-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 326,
+            "width": 1058,
+            "xPosition": 305,
+            "yPosition": 349
+        }
+    },
+    {
+        "id": "intern-directo-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 339,
+            "width": 1106,
+            "xPosition": 280,
+            "yPosition": 326
+        }
+    },
+    {
+        "id": "intern-disonancias-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 422,
+            "width": 1323,
+            "xPosition": 191,
+            "yPosition": 300
+        }
+    },
+    {
+        "id": "intern-funciona-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 566,
+            "width": 1512,
+            "xPosition": 47,
+            "yPosition": 206
+        }
+    },
+    {
+        "id": "intern-intervalos perfectos-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 457,
+            "width": 1257,
+            "xPosition": 172,
+            "yPosition": 278
+        }
+    },
+    {
+        "id": "intern-oblicuo-image-image-0",
+        "rect": {
+            "angle": 0,
+            "height": 333,
+            "width": 1132,
+            "xPosition": 273,
+            "yPosition": 330
+        }
+    }
+]
